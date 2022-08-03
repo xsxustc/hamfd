@@ -1,0 +1,13 @@
+scikit-learn==0.24.2
+pandas==1.2.4
+numpy==1.21.0
+matplotlib==3.3.4
+tensorflow==2.2.0
+Keras==2.3.1
+pyecharts==0.1.9.4
+seaborn==0.11.1
+tqdm==4.82.1
+scipy==1.4.1
+psutil==5.8.0
+xgboost==0.90
+lightgbm=3.1.1
